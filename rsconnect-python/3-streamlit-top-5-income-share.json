@@ -1,0 +1,11 @@
+{
+    "https://colorado.rstudio.com/rsc/": {
+        "server_url": "https://colorado.rstudio.com/rsc/",
+        "filename": "/Users/nathanstephens/Projects/rsconnect-python/3-streamlit-top-5-income-share",
+        "app_url": "https://colorado.rstudio.com/rsc/connect/#/apps/7485",
+        "app_id": 7485,
+        "app_guid": "53913f65-c2f5-4546-95fd-693edc6f61da",
+        "title": "3-streamlit-top-5-income-share",
+        "app_mode": "python-streamlit"
+    }
+}
